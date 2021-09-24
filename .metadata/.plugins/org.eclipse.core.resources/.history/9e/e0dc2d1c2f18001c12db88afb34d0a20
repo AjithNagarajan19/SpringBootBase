@@ -1,0 +1,16 @@
+package com.basespring.springbootapp;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class EmployeeController {
+
+	
+	@GetMapping("/Hai")
+	public String all() {
+	  return "Hai";
+	}
+	
+	
+}
