@@ -9,7 +9,7 @@
 <fullyQualifiedTypeName name="javax.annotation.Generated"/>
 <fullyQualifiedTypeName name="lombok.Getter"/>
 <fullyQualifiedTypeName name="lombok.Setter"/>
-<fullyQualifiedTypeName name="dto.UserDto"/>
 <fullyQualifiedTypeName name="service.UserService"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="dto.UserDto"/>
 </qualifiedTypeNameHistroy>
